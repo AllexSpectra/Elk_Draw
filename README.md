@@ -9,12 +9,15 @@ This repository only holds the downloads. Get the latest version under
 
 ## What ELG does
 
-- Drawing structures, reactions, brackets, text and shapes; templates and a fragment library
-  (rings, functional groups, protecting groups, reagents and solvents, macrocycles such as porphine
-  and the cucurbit[n]urils, ferrocene).
+- Drawing structures, reactions, brackets, text and shapes; templates and a fragment library: rings,
+  functional and protecting groups, reagents and solvents (including acids such as HBF4 and HBPh4); cages,
+  macrocycles and complexes drawn in 3D perspective (adamantane, triptycene, POSS, cucurbit[n]urils,
+  cyclodextrins, calixarenes, porphyrins, ferrocene); natural products (caffeine, cholesterol); dyes and
+  pigments (coumarins, Nile Red, aza-BODIPY, rhodamine B, perylene diimide, DPP, HPTS).
 - Properties panel: formula, molecular weight, exact mass, logP, TPSA, H-bond donors and acceptors,
   rotatable bonds, Fsp3, rule of five, SMILES; selected values can be inserted as text.
-- Analyze menu: structure information, structure check, formula and geometry optimisation (force field).
+- Analyze menu: structure information, estimated physical properties (Joback), structure check, formula and
+  geometry optimisation (force field).
 - Structures in Microsoft Word: insert them, double-click to edit them in Elk_Draw.
 - Files: Elk_Draw's own format and common chemistry formats (MOL/SDF, SMILES, CDXML and others);
   export as pictures.
