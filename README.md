@@ -47,4 +47,8 @@ research; commercial use needs permission. The full terms (German, binding, and 
 [LICENSE.txt](LICENSE.txt). Components by others and their licences:
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) and the [licenses](licenses) folder.
 
+ChemDraw is a registered trademark of Revvity Signals Software, Inc. Elk_Draw reads and writes the CDX
+and CDXML file formats to exchange drawings; it is not affiliated with, endorsed or sponsored by Revvity.
+Other names may be trademarks of their owners.
+
 Contact: alexkarasyov0@gmail.com
