@@ -1,6 +1,6 @@
 # Elk_Draw
 
-Elk_Draw is an editor for chemical structures and reactions on Windows:
+Elk_Draw is an editor for chemical structures and reactions on Windows, macOS and Linux:
 the whole editor, free for private use, teaching and non-commercial academic research
 (see [LICENSE.txt](LICENSE.txt)).
 
