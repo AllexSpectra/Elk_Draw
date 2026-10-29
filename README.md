@@ -30,7 +30,11 @@ but are part of Elk_Draw Pro only.
 
 ## Installing
 
-Windows 10 or 11, 64-bit. Nothing else is needed: no .NET, no administrator rights.
+Nothing else needs to be installed on any of the systems: no .NET, no administrator rights.
+
+### Windows
+
+Windows 10 or 11, 64-bit.
 
 - **Elk_Draw.msi** – installer. Installs for your Windows user into
   `%LocalAppData%\Programs\Elk_Draw`, adds a Start menu and a desktop shortcut and registers
@@ -41,6 +45,35 @@ Windows 10 or 11, 64-bit. Nothing else is needed: no .NET, no administrator righ
 
 Windows may warn that the installer comes from an unknown publisher (it is not code-signed yet):
 choose *More info › Run anyway*.
+
+### macOS and Linux – preview
+
+> **Preview, not yet tested on a real Mac or Linux PC.** The programs are built automatically and
+> compile cleanly, but nobody has started them yet. Please report problems as an
+> [issue](https://github.com/AllexSpectra/Elk_Draw/issues).
+
+### macOS
+
+macOS 14 (Sonoma) or newer.
+
+- **Elk_Draw-mac-AppleSilicon.zip** – for Macs with M1, M2, M3 or M4 chips.
+- **Elk_Draw-mac-Intel.zip** – for older Macs with Intel chips.
+
+Unzip and move **Elk_Draw.app** to *Applications*. The app is not signed by Apple yet, so the first
+time right-click (or Control-click) it and choose *Open*, then *Open* again. If macOS only offers
+*Move to Bin*, open *System Settings › Privacy & Security* and click *Open Anyway* next to Elk_Draw.
+Settings are kept in `~/Library/Application Support/Elk_Draw`. The zip also contains
+`Elk_Draw.dotm`, which adds an Elk_Draw tab to Word for Mac (see *READ ME FIRST.txt*).
+
+### Linux
+
+64-bit (x64) Linux with a desktop.
+
+- **Elk_Draw-linux-x64.tar.gz** – unpack it anywhere (`tar -xzf Elk_Draw-linux-x64.tar.gz`) and
+  start `./Elk_Draw` in the `Elk_Draw` folder. Settings are kept in `~/.config/Elk_Draw`.
+
+Word integration is available on Windows and macOS only. On macOS and Linux, descriptors and InChI use
+Elk_Draw's own code.
 
 Up to version 0.9.7 this edition was called **Elk_Draw ELG** (files `Elk_Draw-ELG.msi` and
 `Elk_Draw-ELG.zip`, installed into `%LocalAppData%\Programs\Elk_Draw ELG`). Those releases keep their old names.
