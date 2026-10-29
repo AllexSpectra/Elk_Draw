@@ -1,13 +1,13 @@
-# Elk_Draw ELG
+# Elk_Draw
 
-Elk_Draw is an editor for chemical structures and reactions on Windows. **ELG** is its light edition:
+Elk_Draw is an editor for chemical structures and reactions on Windows:
 the whole editor, free for private use, teaching and non-commercial academic research
 (see [LICENSE.txt](LICENSE.txt)).
 
 This repository only holds the downloads. Get the latest version under
 **[Releases](../../releases)**.
 
-## What ELG does
+## What Elk_Draw does
 
 - Drawing structures, reactions, brackets, text and shapes; templates and a fragment library: rings,
   functional and protecting groups (including silyl groups); acids (including HBF4 and HBPh4), bases,
@@ -25,22 +25,25 @@ This repository only holds the downloads. Get the latest version under
 - Files: Elk_Draw's own format and common chemistry formats (MOL/SDF, SMILES, CDXML and others);
   export as pictures.
 
-The quantum-chemical calculations of the full edition (MOPAC, xtb, TD-DFT) and NMR prediction are
-shown in the menus but are not part of ELG.
+The quantum-chemical calculations (MOPAC, xtb, TD-DFT) and NMR prediction are shown in the menus
+but are part of Elk_Draw Pro only.
 
 ## Installing
 
 Windows 10 or 11, 64-bit. Nothing else is needed: no .NET, no administrator rights.
 
-- **Elk_Draw-ELG.msi** – installer. Installs for your Windows user into
-  `%LocalAppData%\Programs\Elk_Draw ELG`, adds a Start menu and a desktop shortcut and registers
+- **Elk_Draw.msi** – installer. Installs for your Windows user into
+  `%LocalAppData%\Programs\Elk_Draw`, adds a Start menu and a desktop shortcut and registers
   Elk_Draw for Word. Remove it under *Settings › Apps*. A newer installer updates an older one.
   Settings are kept in `%APPDATA%\Elk_Draw`.
-- **Elk_Draw-ELG.zip** – portable copy. Unzip anywhere and start `Elk_Draw.exe`. Settings are kept in
+- **Elk_Draw.zip** – portable copy. Unzip anywhere and start `Elk_Draw.exe`. Settings are kept in
   the `Data` folder next to the program. To use it with Word, run `Register in Word.cmd` once.
 
 Windows may warn that the installer comes from an unknown publisher (it is not code-signed yet):
 choose *More info › Run anyway*.
+
+Up to version 0.9.7 this edition was called **Elk_Draw ELG** (files `Elk_Draw-ELG.msi` and
+`Elk_Draw-ELG.zip`, installed into `%LocalAppData%\Programs\Elk_Draw ELG`). Those releases keep their old names.
 
 ## Licence
 
