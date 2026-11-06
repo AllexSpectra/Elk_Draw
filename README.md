@@ -26,9 +26,7 @@ This repository only holds the downloads. Get the latest version under
   export as pictures.
 
 The quantum-chemical calculations (MOPAC, xtb, TD-DFT), NMR prediction from measured data, layers, Photoshop
-files and the Excel add-in are shown in the menus but are part of the full editions:
-**[Elk_Draw Personal](https://github.com/AllexSpectra/Elk_Draw-Personal/releases)** (free for private use,
-teaching and non-commercial research) and **Elk_Draw Pro** (for commercial use, with a licence; contact below).
+files and the Excel add-in are shown in the menus but are part of **Elk_Draw Pro** (contact below).
 
 ## Installing
 

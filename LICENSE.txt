@@ -12,8 +12,8 @@ DEUTSCHE FASSUNG (verbindlich)
 ================================================================================
 
 1. Gegenstand
-   Diese Bedingungen gelten für das Programm Elk_Draw in allen Ausgaben (Elk_Draw, Elk_Draw
-   Personal und Elk_Draw Pro, für Windows, macOS und Linux) einschließlich Dokumentation und Aktualisierungen
+   Diese Bedingungen gelten für das Programm Elk_Draw in allen Ausgaben (Elk_Draw und Elk_Draw
+   Pro, für Windows, macOS und Linux) einschließlich Dokumentation und Aktualisierungen
    ("Software"). Rechteinhaber ist [NAME] ("Rechteinhaber").
 
 2. Nutzungsrecht
@@ -28,7 +28,7 @@ DEUTSCHE FASSUNG (verbindlich)
    2.3 Sie dürfen unveränderte, vollständige Kopien der Software einschließlich dieser
        Bedingungen und der Lizenzhinweise unentgeltlich an Dritte weitergeben. Für Dritte
        gelten dann ebenfalls diese Bedingungen.
-   2.4 Elk_Draw und Elk_Draw Personal dürfen nur nach Ziffer 2.1 genutzt werden. Für die
+   2.4 Elk_Draw darf nur nach Ziffer 2.1 genutzt werden. Für die
        kommerzielle Nutzung nach Ziffer 2.2 ist Elk_Draw Pro bestimmt; die Zustimmung wird durch
        eine Lizenz des Rechteinhabers für Elk_Draw Pro erteilt.
 
@@ -90,8 +90,8 @@ ENGLISH VERSION (for information only)
 ================================================================================
 
 1. Subject
-   These terms apply to the program Elk_Draw in all editions (Elk_Draw, Elk_Draw Personal and
-   Elk_Draw Pro, for Windows, macOS and Linux), including documentation and updates ("Software"). The rights holder is
+   These terms apply to the program Elk_Draw in all editions (Elk_Draw and Elk_Draw Pro, for
+   Windows, macOS and Linux), including documentation and updates ("Software"). The rights holder is
    Oleksandr Karasyov ("Rights Holder").
 
 2. Licence
@@ -105,7 +105,7 @@ ENGLISH VERSION (for information only)
        permission in text form (e.g. e-mail).
    2.3 You may pass on unmodified, complete copies of the Software, including these terms and the
        licence notices, to others free of charge. These terms then apply to them as well.
-   2.4 Elk_Draw and Elk_Draw Personal may be used only as set out in 2.1. Elk_Draw Pro is the
+   2.4 Elk_Draw may be used only as set out in 2.1. Elk_Draw Pro is the
        edition for commercial use under 2.2; the permission is given by a licence from the Rights
        Holder for Elk_Draw Pro.
 
